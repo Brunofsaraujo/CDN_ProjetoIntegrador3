@@ -1,0 +1,33 @@
+ID_Projeto,Nome_Projeto,Eixo,Responsavel,Custo_Estimado,Horas_Semana,Situacao_Problema_Cod,Situacao_Problema_Desc,Data_Inicio,Data_Fim
+101,"Biblioteca Ativa e Aquisição","Didático-Pedagógico","Júlia Cristina Gütschow Sampaio",150000,5,"cat 0.1.01","Metodologia de ensino, evasão",19/02/2024,20/12/2024
+101,"Biblioteca Ativa e Aquisição","Didático-Pedagógico","Júlia Cristina Gütschow Sampaio",150000,5,"cat 0.1.03","Infraestrutura predial",19/02/2024,20/12/2024
+102,"Visitas Técnicas e Feiras de Profissões","Didático-Pedagógico","Dilermano Piva Júnior",0,6,"cat 0.1.01","Metodologia de ensino, evasão",02/02/2024,20/12/2024
+102,"Visitas Técnicas e Feiras de Profissões","Didático-Pedagógico","Dilermano Piva Júnior",0,6,"cat 0.1.08","Participação da comunidade",02/02/2024,20/12/2024
+103,"Capacitação Extracurricular","Didático-Pedagógico","Angelina V. S. Melaré",5000,6,"cat 0.1.01","Metodologia de ensino, evasão",01/02/2024,20/12/2024
+103,"Capacitação Extracurricular","Didático-Pedagógico","Angelina V. S. Melaré",5000,6,"cat 0.1.99","Outra",01/02/2024,20/12/2024
+104,"Escola de Inovadores INOVA CPS","Didático-Pedagógico","Angelina V. S. Melaré",0,6,"cat 0.1.01","Metodologia de ensino, evasão",01/02/2024,20/12/2024
+104,"Escola de Inovadores INOVA CPS","Didático-Pedagógico","Angelina V. S. Melaré",0,6,"cat 0.1.08","Participação da comunidade",01/02/2024,20/12/2024
+105,"Orientação Profissional e Empregabilidade","Didático-Pedagógico","Maria Eliana Gomes Cardim",0,13,"cat 0.1.01","Metodologia de ensino, evasão",01/02/2024,20/12/2024
+106,"Acompanhamento de Projetos Integradores","Didático-Pedagógico","Angelina V. S. Melaré",0,6,"cat 0.1.01","Metodologia de ensino, evasão",01/02/2024,20/12/2024
+106,"Acompanhamento de Projetos Integradores","Didático-Pedagógico","Angelina V. S. Melaré",0,6,"cat 0.1.99","Outra",01/02/2024,20/12/2024
+107,"Monitoria em Disciplina","Didático-Pedagógico","Lígia Conceição Pereira Agasi",8000,6,"cat 0.1.01","Metodologia de ensino, evasão",01/02/2024,20/12/2024
+107,"Monitoria em Disciplina","Didático-Pedagógico","Lígia Conceição Pereira Agasi",8000,6,"cat 0.1.99","Outra",01/02/2024,20/12/2024
+108,"Processo de Avaliação da CPA","Didático-Pedagógico","Diego Aparecido Carvalho Albuquerque",0,15,"cat 0.1.10","Gestão da unidade de ensino",01/02/2024,20/12/2024
+201,"Implantação do Laboratório Maker","Laboratórios","Angelina V. S. Melaré",250000,9,"cat 0.1.04","Infraestrutura laboratorial",02/02/2024,20/12/2024
+202,"Obtenção e Estruturação dos Laboratórios","Laboratórios","Lígia C. P. Agasi",850000,4,"cat 0.1.04","Infraestrutura laboratorial",01/02/2024,20/12/2024
+202,"Obtenção e Estruturação dos Laboratórios","Laboratórios","Lígia C. P. Agasi",850000,4,"cat 0.1.05","Materiais e equipamentos",01/02/2024,20/12/2024
+301,"Pesquisa - Cidades Inteligentes","Pesquisa/Extensão","Angelina V. S. Melaré",0,4,"cat 0.1.01","Metodologia de ensino, evasão",15/02/2024,31/12/2024
+301,"Pesquisa - Cidades Inteligentes","Pesquisa/Extensão","Angelina V. S. Melaré",0,4,"cat 0.1.08","Participação da comunidade",15/02/2024,31/12/2024
+303,"Monitoria de Iniciação Científica","Pesquisa/Extensão","Angelina V. S. Melaré",0,6,"cat 0.1.01","Metodologia de ensino, evasão",15/02/2024,20/12/2024
+303,"Monitoria de Iniciação Científica","Pesquisa/Extensão","Angelina V. S. Melaré",0,6,"cat 0.1.08","Participação da comunidade",15/02/2024,20/12/2024
+304,"Desenvolvimento de Cursos de Extensão","Pesquisa/Extensão","Angelina V. S. Melaré",15000,6,"cat 0.1.01","Metodologia de ensino, evasão",02/01/2024,30/12/2024
+304,"Desenvolvimento de Cursos de Extensão","Pesquisa/Extensão","Angelina V. S. Melaré",15000,6,"cat 0.1.08","Participação da comunidade",02/01/2024,30/12/2024
+307,"Pesquisa sobre Visão Computacional","Pesquisa/Extensão","Dilermando Piva Júnior",20000,4,"cat 0.1.11","Segurança pessoal e patrimonial",01/02/2024,20/12/2024
+401,"Projetos Internacionais e TOIC","Atividades Formativas","Coordenadores / Direção",10000,4,"cat 0.1.99","Outros",15/02/2024,20/12/2024
+501,"Aquisição e Instalação de Wi-Fi","Infraestrutura","Coordenadores CDN; CO; DSM",350000,15,"cat 0.1.03","Infraestrutura predial",02/01/2024,20/12/2024
+501,"Aquisição e Instalação de Wi-Fi","Infraestrutura","Coordenadores CDN; CO; DSM",350000,15,"cat 0.1.05","Materiais e equipamentos",02/01/2024,20/12/2024
+502,"Instalação de Laboratórios dos Cursos","Infraestrutura","Angelina V. S. Melaré",200000,6,"cat 0.1.03","Infraestrutura predial",02/01/2024,20/12/2024
+503,"Implantação de Áreas Comuns","Infraestrutura","Direção",12000,4,"cat 0.1.03","Infraestrutura predial",02/01/2024,20/12/2024
+601,"Capacitação de Docentes e Servidores","Desenvolvimento de Pessoas","Direção / Coordenação",0,10,"cat 0.1.10","Gestão da unidade de ensino",02/01/2024,20/12/2024
+602,"Ações propostas pela CPA","Desenvolvimento de Pessoas","Diego Aparecido carvalho Albuquerque",0,16,"cat 0.1.99","Outros",02/01/2024,20/12/2024
+701,"Convênios e Parcerias Institucionais","Convênios e Parcerias","Angelina V. S. Melaré",0,4,"cat 0.1.08","Participação da comunidade",02/01/2024,20/12/2024
